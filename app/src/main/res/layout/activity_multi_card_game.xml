@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MultiCardGameActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/multiCardButton1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/multiCardButton5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/multiCardButton9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton11"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/multiCardButton13"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton14"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton15"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+        <Button
+            android:id="@+id/multiCardButton16"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:onClick="multiCardOnClick"
+            android:background="@drawable/stanfordtree"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/multiCardResetButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="multiCardOnClick"
+            android:text="@string/reset" />
+
+    </LinearLayout >
+
+</LinearLayout>
+
+
+
