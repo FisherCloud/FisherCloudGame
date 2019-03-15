@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FisherCloud</string>
+    <string name="app_name">FisherCloudGame</string>
     <string name="card">Card</string>
     <string name="cardGame">CardGame</string>
     <string name="cardTextViewText">您已经翻了0张卡片</string>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">鱼摆摆小游戏</string>
+    <string name="card">纸牌</string>
+    <string name="cardGame">纸牌游戏</string>
+    <string name="cardTextViewText">您已经翻了0张卡片</string>
+    <string name="randomcard">随机纸牌</string>
+    <string name="multicard">多纸牌游戏</string>
+    <string name="reset">重置</string>
+    <string name="button">按钮</string>
+
+</resources>
